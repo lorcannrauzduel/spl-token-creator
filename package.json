@@ -1,0 +1,20 @@
+{
+	"name": "spl-token-solana",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"dependencies": {
+		"@bundlr-network/client": "^0.8.9",
+		"@metaplex-foundation/js": "^0.15.0",
+		"@metaplex-foundation/mpl-token-metadata": "^2.2.4",
+		"@solana/buffer-layout": "^4.0.0",
+		"@solana/spl-token": "^0.3.5",
+		"@solana/web3.js": "^1.61.1",
+		"bs58": "^5.0.0",
+		"buffer-layout": "^1.2.2",
+		"commander": "^9.4.1",
+		"dotenv": "^16.4.5",
+		"mime-types": "^2.1.35",
+		"prompt-sync": "^4.2.0"
+	}
+}
