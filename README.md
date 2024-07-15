@@ -69,15 +69,15 @@ Il est essentiel de connaître quelques concepts clés spécifique à Solana pou
 
 - **Types de comptes** :
 
-  1. **Token Account (Mint)** :
-
-     - C'est le compte principal qui représente votre token.
-     - Il stocke des informations comme le nombre de décimales du token et l'autorité de gestion.
-
-  2. **Mint/Freeze Authority** :
+  1. **Mint/Freeze Authority** :
 
      - **Mint Authority** : C'est le compte qui a le pouvoir de créer de nouveaux tokens et de les détruire.
      - **Freeze Authority** : C'est le compte qui peut geler (mettre en pause) les transferts de tokens.
+
+  2. **Token Account** :
+
+     - C'est le compte principal qui représente votre token.
+     - Il stocke des informations comme le nombre de décimales du token et l'autorité de gestion.
 
   3. **Metadata Account** :
 
