@@ -36,7 +36,7 @@ export const options = {
 };
 ```
 
-6. Mettez à jour le fichier `metadata.json` avec les informations de votre token. Assurez-vous que l'image est déjà uploadée.
+6. Mettez à jour le fichier `metadata.json` avec les informations de votre token. Assurez-vous que l'image soit déjà uploadée.
 
 ```json
 {
