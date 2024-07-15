@@ -16,7 +16,7 @@ const main = async () => {
 	
 	await createToken(
 		decimals,
-		disableFreeze || false,
+		disableFreeze,
 		metadataFile,
 		keypair,
 		rpcUrl,
