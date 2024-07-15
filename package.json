@@ -3,6 +3,9 @@
 	"version": "1.0.0",
 	"main": "index.js",
 	"license": "MIT",
+	"scripts": {
+		"create-token": "ts-node index.ts"
+	},
 	"dependencies": {
 		"@bundlr-network/client": "^0.8.9",
 		"@metaplex-foundation/js": "^0.15.0",

@@ -52,6 +52,14 @@ export  const  options  = {
 
 Avant de lancer le projet, **assurez-vous d'avoir des Solana (SOL) sur le compte d'autorité de gestion**. Sur le Devnet, vous pouvez en obtenir gratuitement sur [faucet.solana.com](https://faucet.solana.com/).
 
+## Lancer le script
+
+Une fois, que vous avez configuré les métadonnées de votre token et que vous avez alimenté votre compte. Vous pouvez lancer le script de création du token avec la commande :
+
+```bash
+pnpm create-token
+```
+
 ## Concepts clés
 
 Il est essentiel de connaître quelques concepts clés spécifique à Solana pour bien comprendre le code.
