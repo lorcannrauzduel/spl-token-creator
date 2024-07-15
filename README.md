@@ -26,8 +26,8 @@ PRIVATE_KEY=
 
 5. Modifiez les paramètres dans `config/token.ts` selon vos besoins (nombre de décimales, URI des métadonnées, etc.).
 
-```bash
-export  const  options  = {
+```typescript
+export const options = {
 	decimals: 9,
 	disableFreeze: false,
 	rpcUrl: 'https://api.devnet.solana.com', // https://api.mainnet-beta.solana.com for mainnet
